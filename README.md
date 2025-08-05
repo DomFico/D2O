@@ -11,8 +11,8 @@ This repository provides a surrogate Ridge model for predicting HDX–MS deuteri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/D2O-surrogate.git
-   cd D2O-surrogate
+   git clone https://github.com/YourUsername/D2O.git
+   cd D2O_surrogate_model
    ```
 2. Upload the directory to Colab.
 3. Open `D2O.ipynb`, install dependencies, and follow these steps:
@@ -24,3 +24,5 @@ This repository provides a surrogate Ridge model for predicting HDX–MS deuteri
 
 Issues and pull requests are welcome. 
 Please do let me know how the results are for you!
+
+Expect much more to come as I am finishing up the paper :)
