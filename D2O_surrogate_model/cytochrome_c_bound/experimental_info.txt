@@ -1,0 +1,9 @@
+cytochrome_c
+
+https://www.ebi.ac.uk/pride/archive/projects/PXD057902
+
+TEMPERATURE=293.15
+PH_READ=7.0
+PH_CORRECTION=True
+EXCHANGE_TYPE=HD
+D_PERCENTAGE=90.0

@@ -1,0 +1,10 @@
+AcrA
+
+https://www.ebi.ac.uk/pride/archive/projects/PXD057200
+https://www.cell.com/structure/fulltext/S0969-2126(24)00547-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212624005471%3Fshowall%3Dtrue
+
+TEMPERATURE=293.15
+PH_READ=7.4
+PH_CORRECTION=True
+EXCHANGE_TYPE=HD
+D_PERCENTAGE=95.0
